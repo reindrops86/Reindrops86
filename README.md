@@ -64,7 +64,6 @@ Parses sandbox output, extracts behaviors, and maps them to MITRE ATT&CK techniq
 
 ## 📚 Education & Certifications
 
-- **Postdoctoral Researcher — Threat Signal Derivation & Attribution**  
 - **Virginia Tech — Applied Agentic AI: Systems Design & Impact**  
 - **Microsoft Azure AI Certificate**  
 - **B.S. Computer & Information Systems Security**  
