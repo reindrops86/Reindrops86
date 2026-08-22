@@ -75,7 +75,8 @@ Parses sandbox output, extracts behaviors, and maps them to MITRE ATT&CK techniq
 ## 📫 Connect With Me
 
 - **GitHub:** https://github.com/reindrops86  
-- **Email:** LetishaRein@proton.me  
+- **Email:** LetishaRein@proton.me
+- **LinkedIn** www.linkedin.com/in/letisha-rein-ab7a08a0
 - **Location:** Atlanta, GA  
 
 ---
